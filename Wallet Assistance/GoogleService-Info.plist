@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>618877913499-j39t4355c8ag3kgrcs0g84nu33d8adtq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.618877913499-j39t4355c8ag3kgrcs0g84nu33d8adtq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMRCBUM3gt45tFUb9aYEtUKrf9K__Zbh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>618877913499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Arpit-s-MacBook.Wallet-Assistance</string>
+	<key>PROJECT_ID</key>
+	<string>wassistance-fea0e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wassistance-fea0e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:618877913499:ios:66ae2e55e52592aa8ef93e</string>
+	<key>DATABASE_URL</key>
+	<string>https://wassistance-fea0e.firebaseio.com</string>
+</dict>
+</plist>
